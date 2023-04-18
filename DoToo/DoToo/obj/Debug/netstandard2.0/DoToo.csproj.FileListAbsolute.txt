@@ -1,0 +1,8 @@
+C:\Users\laura\Downloads\prog3_trabalho-main\Prog3DoToo-main\DoToo\DoToo\obj\Debug\netstandard2.0\DoToo.csproj.AssemblyReference.cache
+C:\Users\laura\Downloads\prog3_trabalho-main\Prog3DoToo-main\DoToo\DoToo\obj\Debug\netstandard2.0\DoToo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laura\Downloads\prog3_trabalho-main\Prog3DoToo-main\DoToo\DoToo\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\laura\Downloads\prog3_trabalho-main\Prog3DoToo-main\DoToo\DoToo\obj\Debug\netstandard2.0\Views\ItemView.xaml.g.cs
+C:\Users\laura\Downloads\prog3_trabalho-main\Prog3DoToo-main\DoToo\DoToo\obj\Debug\netstandard2.0\Views\MainView.xaml.g.cs
+C:\Users\laura\Downloads\prog3_trabalho-main\Prog3DoToo-main\DoToo\DoToo\obj\Debug\netstandard2.0\DoToo.AssemblyInfoInputs.cache
+C:\Users\laura\Downloads\prog3_trabalho-main\Prog3DoToo-main\DoToo\DoToo\obj\Debug\netstandard2.0\DoToo.AssemblyInfo.cs
+C:\Users\laura\Downloads\prog3_trabalho-main\Prog3DoToo-main\DoToo\DoToo\obj\Debug\netstandard2.0\DoToo.csproj.CoreCompileInputs.cache
